@@ -5,7 +5,7 @@
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
-    "@euxdt/node-rules-engine": "^0.0.27",
+    "@euxdt/node-rules-engine": "^0.0.37",
     "@mui/icons-material": "^5.11.9",
     "@mui/material": "^5.11.10",
     "@testing-library/jest-dom": "^5.16.5",
@@ -15,6 +15,7 @@
     "@types/node": "^16.18.12",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
+    "http-proxy-middleware": "^2.0.6",
     "https": "npm:https-browserify",
     "https-browserify": "^1.0.0",
     "react": "^18.2.0",
